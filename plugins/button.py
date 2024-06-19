@@ -10,7 +10,7 @@ def start_button(client):
     if FORCE_SUB_CHANNEL:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴏʀᴅᴇʀ ᴠɪᴘ", url=f"https://t.me/CumAgent")
+                InlineKeyboardButton(text="ʙᴏᴋᴇᴘ ᴠᴠɪᴘ", url=f"https://t.me/CumAgent")
             ],
         ]
         return buttons
