@@ -10,7 +10,7 @@ def start_button(client):
     if FORCE_SUB_CHANNEL:
         buttons = [
             [
-                InlineKeyboardButton(text="𝐂𝐇 𝐔𝐓𝐀𝐌𝐀", url=f"https://t.me/BOKEP_ONLYFANS_VIRAL")
+                InlineKeyboardButton(text="ᴏʀᴅᴇʀ ᴠɪᴘ", url=f"https://t.me/CumAgent")
             ],
         ]
         return buttons
